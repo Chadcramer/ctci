@@ -18,3 +18,4 @@ let stringRotation = (s1, s2) => {
 
 // ex 'waterbottle' is a rotation of 'erbottlewat';
 console.log(stringRotation('waterbottle', 'erbottlewat')); // output -> true
+// test
